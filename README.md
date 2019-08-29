@@ -1,3 +1,1 @@
-# git-github
-This is just for training purpose.
-I am a pro now.
+This is my first repository for this Github account.
