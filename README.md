@@ -1,1 +1,3 @@
-This is my first repository for this Github account.
+# maven-project
+
+Simple Maven Project
